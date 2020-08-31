@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324023179700",
+    "firebase_url": "https://yuichi-71ab3.firebaseio.com",
+    "project_id": "yuichi-71ab3",
+    "storage_bucket": "yuichi-71ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324023179700:android:96848b976837b9ba943ae1",
+        "android_client_info": {
+          "package_name": "com.example.yuichi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324023179700-jjf3u3rabapeq0pedo53gs15ui3mjc5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOeweuNILwgTAqMzn8hZV0kZjMZgTdLgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324023179700-jjf3u3rabapeq0pedo53gs15ui3mjc5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
