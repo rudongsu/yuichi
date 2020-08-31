@@ -19,7 +19,7 @@ class _MakeBillState extends State<MakeBill> {
   String defaultType = 'Gold';
   final _Name = TextEditingController();
   final _Item = TextEditingController();
-
+  String test = '';
   String defaultItem = '';
   String defaultName = '';
   String defaultNote = '';
